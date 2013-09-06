@@ -89,11 +89,11 @@ Endpoints:
         Backend:       ""
         Options:       { health: true }
 Install-Build-Required: false
-#ource-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
+ource-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
 #Source-Url: https://github.com/wsun1/perlv2cart.git
 #Source-Url: git://github.com/wsun1/perlv2cart.git
 #Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.zip
-Source-Url: file:///root/perlv2cart/perlv2cart1zip
+#Source-Url: file:///root/perlv2cart/perlv2cart.zip
 #Source-Url: http://baidu.com
 #Source-Url: file:///root/perlv2cart/
 #Source-Url: git://github.com/test
