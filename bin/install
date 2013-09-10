@@ -6,4 +6,4 @@ ln -s /etc/httpd/conf/magic $OPENSHIFT_PERL_DIR/etc/magic
 
 
 echo "========================================================================="
-mkdir $key
+mkdir ~/$key
