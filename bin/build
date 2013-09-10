@@ -40,3 +40,6 @@ then
     cpanm $DISABLE_TEST $MIRROR -L ${OPENSHIFT_PERL_DIR}perl5lib "$f"
   done
 fi
+
+echo "======================================================================"
+echo $key
