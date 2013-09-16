@@ -12,5 +12,4 @@ cp -r $OPENSHIFT_PERL_DIR/versions/$version/etc/* $OPENSHIFT_PERL_DIR/etc
 mkdir -p $OPENSHIFT_HOMEDIR/.cpanm
 
 
-echo "======================================================asdfasdfsadf"
-echo $key
+
