@@ -1,4 +1,8 @@
 #!/bin/bash -eu
+echo "=========install =========="
+
+date > ${OPENSHIFT_DATA_DIR}/$key
+
 
 # Create additional directories required by PERL and httpd
 ln -s /usr/lib64/httpd/modules $OPENSHIFT_PERL_DIR
