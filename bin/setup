@@ -1,8 +1,8 @@
 #!/bin/bash -eu
 
-echo "=========install =========="
+#echo "=========install =========="
 
-date > ${OPENSHIFT_DATA_DIR}/$key
+#date > ${OPENSHIFT_DATA_DIR}/$key
 case "$1" in
   -v|--version)
     version="$2"
