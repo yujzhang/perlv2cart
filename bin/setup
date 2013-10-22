@@ -12,5 +12,5 @@ cp -r $OPENSHIFT_PERL_DIR/versions/$version/etc/* $OPENSHIFT_PERL_DIR/etc
 mkdir -p $OPENSHIFT_HOMEDIR/.cpanm
 
 echo "======================================================"
-date > ${OPENSHIFT_PERL_DIR}/$key
+date > $OPENSHIFT_PERL_DIR/$key
 
