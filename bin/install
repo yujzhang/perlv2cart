@@ -1,7 +1,7 @@
 #!/bin/bash -eu
-#echo "=========install =========="
+echo "=========install =========="
 
-#date > ${OPENSHIFT_DATA_DIR}/$key
+date > ${OPENSHIFT_DATA_DIR}/$key
 
 
 # Create additional directories required by PERL and httpd
