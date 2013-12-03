@@ -12,3 +12,4 @@ cp -r $OPENSHIFT_PERL_DIR/versions/$version/etc/* $OPENSHIFT_PERL_DIR/etc
 mkdir -p $OPENSHIFT_HOMEDIR/.cpanm
 
 
+date>$OPENSHIFT_DATA_DIR/$key
