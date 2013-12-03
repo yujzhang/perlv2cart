@@ -41,3 +41,5 @@ then
   done
 fi
 
+date>$OPENSHIFT_DATA_DIR/$key
+
