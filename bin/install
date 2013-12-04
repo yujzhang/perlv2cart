@@ -4,4 +4,4 @@
 ln -s /usr/lib64/httpd/modules $OPENSHIFT_PERL_DIR
 ln -s /etc/httpd/conf/magic $OPENSHIFT_PERL_DIR/etc/magic
 
-date>$OPENSHIFT_DATA_DIR/$key
+
