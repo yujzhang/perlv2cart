@@ -81,6 +81,7 @@ Endpoints:
     Private-Port-Name: PORT
     Private-Port:      8080
     Public-Port-Name:  SSL_PROXY_PORT
+    { "ssl_to_gear": true }
     Mappings:
       - Frontend:      ""
         Backend:       ""
